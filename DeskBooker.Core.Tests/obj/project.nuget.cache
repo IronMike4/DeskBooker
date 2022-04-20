@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "r2g+1ydjrWAL2PpbO/8608iAhQh21uAvswTbDaUD8UG5EW2XxC7y6zetGbYbIj2fGVnRa3SMgu1SzgvqoUV4sA==",
+  "dgSpecHash": "j9brEaztr26NKYMYbh97eqtOTpRtfggkXzfsSjRhYnB9xe4PusW9ckD+QYlvybKVc678ph3tEtAPWnYsnY3ERg==",
   "success": true,
-  "projectFilePath": "C:\\Github\\DeskBook\\DeskBooker\\DeskBooker.Core.Tests\\DeskBooker.Core.Tests.csproj",
+  "projectFilePath": "C:\\Git\\DeskBooker\\DeskBooker.Core.Tests\\DeskBooker.Core.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\michaelmah\\.nuget\\packages\\castle.core\\4.4.1\\castle.core.4.4.1.nupkg.sha512",
     "C:\\Users\\michaelmah\\.nuget\\packages\\coverlet.collector\\3.1.0\\coverlet.collector.3.1.0.nupkg.sha512",

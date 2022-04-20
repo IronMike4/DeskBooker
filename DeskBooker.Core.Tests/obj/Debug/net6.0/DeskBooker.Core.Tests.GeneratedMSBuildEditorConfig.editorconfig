@@ -7,4 +7,4 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = DeskBooker.Core
-build_property.ProjectDir = C:\Github\DeskBook\DeskBooker\DeskBooker.Core.Tests\
+build_property.ProjectDir = C:\Git\DeskBooker\DeskBooker.Core.Tests\
