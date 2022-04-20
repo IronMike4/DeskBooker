@@ -1,0 +1,12 @@
+C:\Github\DeskBook\DeskBooker\DeskBooker.Core\bin\Debug\net6.0\DeskBooker.Core.deps.json
+C:\Github\DeskBook\DeskBooker\DeskBooker.Core\bin\Debug\net6.0\DeskBooker.Core.dll
+C:\Github\DeskBook\DeskBooker\DeskBooker.Core\bin\Debug\net6.0\ref\DeskBooker.Core.dll
+C:\Github\DeskBook\DeskBooker\DeskBooker.Core\bin\Debug\net6.0\DeskBooker.Core.pdb
+C:\Github\DeskBook\DeskBooker\DeskBooker.Core\obj\Debug\net6.0\DeskBooker.Core.csproj.AssemblyReference.cache
+C:\Github\DeskBook\DeskBooker\DeskBooker.Core\obj\Debug\net6.0\DeskBooker.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\DeskBook\DeskBooker\DeskBooker.Core\obj\Debug\net6.0\DeskBooker.Core.AssemblyInfoInputs.cache
+C:\Github\DeskBook\DeskBooker\DeskBooker.Core\obj\Debug\net6.0\DeskBooker.Core.AssemblyInfo.cs
+C:\Github\DeskBook\DeskBooker\DeskBooker.Core\obj\Debug\net6.0\DeskBooker.Core.csproj.CoreCompileInputs.cache
+C:\Github\DeskBook\DeskBooker\DeskBooker.Core\obj\Debug\net6.0\DeskBooker.Core.dll
+C:\Github\DeskBook\DeskBooker\DeskBooker.Core\obj\Debug\net6.0\ref\DeskBooker.Core.dll
+C:\Github\DeskBook\DeskBooker\DeskBooker.Core\obj\Debug\net6.0\DeskBooker.Core.pdb

@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3831c802-b814-46fe-84da-e6a8f73f597f": {
+      "ProjectGuid": "3831c802-b814-46fe-84da-e6a8f73f597f",
+      "DisplayName": "DeskBooker.Core.Tests",
+      "ColorIndex": 0
+    },
+    "e7d6e0b7-10c6-4e7e-ad64-26b2e35b0c0c": {
+      "ProjectGuid": "e7d6e0b7-10c6-4e7e-ad64-26b2e35b0c0c",
+      "DisplayName": "DeskBooker.Core",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
