@@ -5,6 +5,7 @@ using NUnit.Framework;
 using NUnit.Framework.Internal;
 using System;
 using System.Collections.Generic;
+using System.Linq;
 
 namespace DeskBooker.Core.Processor
 {
@@ -27,7 +28,7 @@ namespace DeskBooker.Core.Processor
         Date = new DateTime(2022, 04, 10)
       };
 
-      _availableDesks = new List<Desk> { new Desk() };
+      _availableDesks = new List<Desk> { new Desk { Id = 7 } };
 
       _deskBookingRepositoryMock = new Mock<IDeskBookingRepository>();
       _deskRepositoryMock = new Mock<IDeskRepository>();
@@ -80,6 +81,7 @@ namespace DeskBooker.Core.Processor
       Assert.That(savedDeskBooking.LastName, Is.EqualTo(_request.LastName));
       Assert.That(savedDeskBooking.Email, Is.EqualTo(_request.Email));
       Assert.That(savedDeskBooking.Date, Is.EqualTo(_request.Date));
+      Assert.That(savedDeskBooking.DeskId, Is.EqualTo(_availableDesks.First().Id));
     }
 
     [Test]
