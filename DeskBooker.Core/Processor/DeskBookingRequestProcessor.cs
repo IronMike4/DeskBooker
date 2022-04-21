@@ -32,6 +32,7 @@ public class DeskBookingRequestProcessor
 
       _deskBookingRepository.Save(deskBooking);
 
+      result.DeskBookingId = deskBooking.Id;
       result.Code = DeskBookingResultCode.Success;
     }
     else
