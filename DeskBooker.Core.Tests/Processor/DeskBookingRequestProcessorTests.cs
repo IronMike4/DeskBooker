@@ -93,5 +93,19 @@ namespace DeskBooker.Core.Processor
 
       _deskBookingRepositoryMock.Verify(x => x.Save(It.IsAny<DeskBooking>()), Times.Never());
     }
+
+    [TestCase(DeskBookingResultCode.Success, true)]
+    [TestCase(DeskBookingResultCode.NoDeskAvailable, false)]
+    public void ShouldReturnExpectedResultCode(DeskBookingResultCode expectedResultCode, bool isDeskAvailable)
+    {
+      if (!isDeskAvailable)
+      {
+        _availableDesks.Clear();
+      }
+
+      var result = _processor.BookDesk(_request);
+
+      Assert.That(result.Code, Is.EqualTo(expectedResultCode));
+    }
   }
 }
